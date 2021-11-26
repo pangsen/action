@@ -96,5 +96,5 @@ async function main() {
         }
     }
 }
-
+var test="xxxxxxxxxxxxxx"
 main().catch((e) => core.setFailed(e.message));
